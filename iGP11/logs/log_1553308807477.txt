@@ -1,0 +1,172 @@
+2019-03-23 02:40:07.477	[06112]	INFO	iGP11	iGP11 started
+2019-03-23 02:40:07.494	[06112]	INFO	iGP11	attempting to load iGP11.direct3d11...
+2019-03-23 02:40:07.539	[06112]	INFO	iGP11	iGP11.direct3d11 loaded
+2019-03-23 02:40:07.539	[06112]	INFO	iGP11	attempting to start iGP11.direct3d11...
+2019-03-23 02:40:07.539	[06112]	INFO	iGP11.direct3d11	> initialization: start
+2019-03-23 02:40:07.539	[06112]	INFO	iGP11.direct3d11	> initialization: current process [ id: 7656, path: I:\Steam\steamapps\common\Sekiro\sekiro.exe ]
+2019-03-23 02:40:07.539	[06112]	INFO	iGP11.direct3d11	> initialization: attempting to build texture cache...
+2019-03-23 02:40:07.539	[06112]	INFO	iGP11.direct3d11	> initialization: texture cache built, count: 2, structure: [ map_from: 262144_1244681683544504720, force_srgb: [-], map_to: [-] ], [ map_from: 262144_5447648137042914679, force_srgb: [-], map_to: [-] ]
+2019-03-23 02:40:07.543	[06112]	INFO	iGP11.direct3d11	> initialization: attempting to initialize direct3d11...
+2019-03-23 02:40:07.616	[06112]	INFO	iGP11.direct3d11	> initialization: components initialized...
+2019-03-23 02:40:07.616	[06112]	INFO	iGP11.direct3d11	> initialization: > installing hooks: start
+2019-03-23 02:40:07.616	[06112]	INFO	iGP11.direct3d11	> initialization: > installing hooks: > committing hooks: start
+2019-03-23 02:40:07.645	[06112]	INFO	iGP11.direct3d11	> initialization: > installing hooks: > committing hooks: call completed
+2019-03-23 02:40:07.645	[06112]	INFO	iGP11.direct3d11	> initialization: > installing hooks: > committing hooks: done
+2019-03-23 02:40:07.645	[06112]	INFO	iGP11.direct3d11	> initialization: > installing hooks: direct3d11 initialization done, awaiting first invocation...
+2019-03-23 02:40:07.645	[06112]	INFO	iGP11.direct3d11	> initialization: > installing hooks: done
+2019-03-23 02:40:07.645	[06112]	INFO	iGP11.direct3d11	> initialization: > cleaning up temporary data: start
+2019-03-23 02:40:07.645	[06112]	INFO	iGP11.direct3d11	> initialization: > cleaning up temporary data: done
+2019-03-23 02:40:07.645	[06112]	INFO	iGP11.direct3d11	> initialization: done
+2019-03-23 02:40:07.656	[06112]	INFO	iGP11	iGP11.direct3d11 started
+2019-03-23 02:40:07.656	[06112]	INFO	iGP11	attempting to create/start listener...
+2019-03-23 02:40:07.658	[06112]	INFO	iGP11	listener has been started
+2019-03-23 02:40:08.911	[05884]	INFO	iGP11.direct3d11	activation pending... initializing
+2019-03-23 02:40:10.580	[05884]	INFO	iGP11.direct3d11	FPS: 19, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:10.956	[05884]	INFO	iGP11.direct3d11	> resizing swap chain target: call: [ description: [ width: 1920, height: 1080, refreshRate: [ numerator: 60000, denominator: 1000 ], format: 0, scanlineOrdering: 0, scaling: 0 ] ]
+2019-03-23 02:40:12.658	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:40:13.691	[05884]	INFO	iGP11.direct3d11	activation pending... initializing
+2019-03-23 02:40:13.691	[05884]	INFO	iGP11.direct3d11	FPS: 1, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:15.645	[05884]	INFO	iGP11.direct3d11	FPS: 3, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:16.647	[05884]	INFO	iGP11.direct3d11	FPS: 59, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:16.660	[05036]	INFO	iGP11.direct3d11	texture replaced [ id: 262144_1244681683544504720, resource: 000000005DF1F660 ]
+2019-03-23 02:40:16.661	[05036]	INFO	iGP11.direct3d11	texture replaced [ id: 262144_5447648137042914679, resource: 000000005DF206E0 ]
+2019-03-23 02:40:17.658	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:40:17.679	[05884]	INFO	iGP11.direct3d11	FPS: 55, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:18.683	[05884]	INFO	iGP11.direct3d11	FPS: 39, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:19.682	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:20.684	[05884]	INFO	iGP11.direct3d11	FPS: 59, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:21.683	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:22.659	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:40:22.683	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:23.700	[05884]	INFO	iGP11.direct3d11	FPS: 61, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:24.700	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:25.700	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:26.700	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:27.660	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:40:27.700	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:28.701	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:29.700	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:30.705	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:31.705	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:32.661	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:40:32.704	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:33.704	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:34.707	[05884]	INFO	iGP11.direct3d11	> resizing swap chain target: call: [ description: [ width: 1920, height: 1080, refreshRate: [ numerator: 60000, denominator: 1000 ], format: 0, scanlineOrdering: 0, scaling: 0 ] ]
+2019-03-23 02:40:34.979	[05884]	INFO	iGP11.direct3d11	activation pending... initializing
+2019-03-23 02:40:34.979	[05884]	INFO	iGP11.direct3d11	FPS: 33, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:35.178	[05884]	INFO	iGP11.direct3d11	> resizing swap chain target: call: [ description: [ width: 1920, height: 1080, refreshRate: [ numerator: 60000, denominator: 1000 ], format: 0, scanlineOrdering: 0, scaling: 0 ] ]
+2019-03-23 02:40:35.264	[05884]	INFO	iGP11.direct3d11	activation pending... initializing
+2019-03-23 02:40:35.980	[05884]	INFO	iGP11.direct3d11	FPS: 48, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:36.980	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:37.662	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:40:37.981	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:38.984	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:39.984	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:40.984	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:41.984	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:42.662	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:40:42.984	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:43.984	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:44.985	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:45.984	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:46.984	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:47.663	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:40:47.984	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:48.984	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:49.984	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:50.985	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:51.984	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:52.663	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:40:53.271	[05884]	INFO	iGP11.direct3d11	activation pending... initializing
+2019-03-23 02:40:53.271	[05884]	INFO	iGP11.direct3d11	FPS: 45, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:54.734	[05884]	INFO	iGP11.direct3d11	FPS: 20, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:55.742	[05884]	INFO	iGP11.direct3d11	FPS: 61, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:56.741	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:57.663	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:40:57.742	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:58.742	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:40:59.755	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:00.759	[05884]	INFO	iGP11.direct3d11	FPS: 61, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:01.776	[05884]	INFO	iGP11.direct3d11	FPS: 61, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:02.664	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:41:02.776	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:03.775	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:04.775	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:05.776	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:06.775	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:07.665	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:41:07.775	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:08.776	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:09.775	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:10.775	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:11.776	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:12.666	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:41:12.775	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:13.776	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:14.779	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:15.778	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:16.795	[05884]	INFO	iGP11.direct3d11	FPS: 61, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:17.666	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:41:17.795	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:18.806	[05884]	INFO	iGP11.direct3d11	FPS: 50, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:19.817	[05884]	INFO	iGP11.direct3d11	FPS: 59, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:20.829	[05884]	INFO	iGP11.direct3d11	FPS: 53, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:21.828	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:22.667	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:41:22.846	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:23.876	[05884]	INFO	iGP11.direct3d11	FPS: 56, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:24.883	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:25.884	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:26.899	[05884]	INFO	iGP11.direct3d11	FPS: 61, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:27.668	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:41:27.910	[05884]	INFO	iGP11.direct3d11	FPS: 55, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:28.913	[05884]	INFO	iGP11.direct3d11	FPS: 46, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:29.921	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:30.926	[05884]	INFO	iGP11.direct3d11	FPS: 59, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:31.938	[05884]	INFO	iGP11.direct3d11	FPS: 51, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:32.669	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:41:32.938	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:33.954	[05884]	INFO	iGP11.direct3d11	FPS: 61, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:34.955	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:35.963	[05884]	INFO	iGP11.direct3d11	FPS: 59, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:36.964	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:37.669	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:41:37.972	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:38.972	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:39.988	[05884]	INFO	iGP11.direct3d11	FPS: 61, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:40.988	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:42.000	[05884]	INFO	iGP11.direct3d11	FPS: 57, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:42.670	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:41:43.000	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:44.010	[05884]	INFO	iGP11.direct3d11	FPS: 38, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:45.013	[05884]	INFO	iGP11.direct3d11	FPS: 59, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:46.023	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:47.023	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:47.670	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:41:48.040	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:48.949	[05884]	INFO	iGP11.direct3d11	activation pending... initializing
+2019-03-23 02:41:49.052	[05884]	INFO	iGP11.direct3d11	FPS: 37, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:50.067	[05884]	INFO	iGP11.direct3d11	FPS: 61, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:51.080	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:52.082	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:52.671	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:41:53.083	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:54.085	[05884]	INFO	iGP11.direct3d11	FPS: 55, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:55.101	[05884]	INFO	iGP11.direct3d11	FPS: 61, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:56.102	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:57.103	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:57.671	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:41:58.116	[05884]	INFO	iGP11.direct3d11	FPS: 55, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:41:59.119	[05884]	INFO	iGP11.direct3d11	FPS: 59, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:42:00.119	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:42:01.119	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:42:02.135	[05884]	INFO	iGP11.direct3d11	FPS: 61, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:42:02.671	[07548]	INFO	iGP11	core::communication::TcpServer: no pending connections...
+2019-03-23 02:42:03.140	[05884]	INFO	iGP11.direct3d11	FPS: 40, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:42:04.140	[05884]	INFO	iGP11.direct3d11	FPS: 60, render: [ width: 1920, height: 1080 ]
+2019-03-23 02:42:04.951	[05884]	INFO	iGP11.direct3d11	iGP11.Direct3D11.dll detached
+2019-03-23 02:42:04.974	[05884]	INFO	iGP11.direct3d11	direct3d11 unitialized
+2019-03-23 02:42:04.974	[05884]	INFO	iGP11	listener has been stopped
+2019-03-23 02:42:04.974	[05884]	INFO	iGP11	attempting to stop iGP11.direct3d11...
+2019-03-23 02:42:04.974	[05884]	INFO	iGP11	iGP11.direct3d11 stopped
+2019-03-23 02:42:04.974	[05884]	INFO	iGP11	iGP11 stopped
